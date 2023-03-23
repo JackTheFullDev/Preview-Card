@@ -2,6 +2,12 @@
 
 ![Design preview for the Product preview card component coding challenge](./design/desktop-preview.jpg)
 
+
+
+Product-Preview small layout that shows product after discount great opportunity to learn flex-box and some css stuff. First contact with mobile responisve design.
+
+
+
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
